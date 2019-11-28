@@ -13,4 +13,3 @@ var elements = [
     {tag:'input',attr:{type:'submit',value:'提交'}}
 ]
 document.getElementById('form').innerHTML = new FormBuilder(elements).create()
-//123
