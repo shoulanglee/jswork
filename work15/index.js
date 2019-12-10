@@ -19,3 +19,4 @@ ShopCart('cart', [{
     num: 3
 },
 ]);
+//1
